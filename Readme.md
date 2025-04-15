@@ -1,7 +1,6 @@
 
 # **Privacy Policy**
 
-**Effective Date:** [Insert date]
 
 Welcome to **Yahealth**, a mobile application provided by **CHUB (Centre Hospitalier Universitaire de Butare)**. This Privacy Policy describes how we collect, use, disclose, and safeguard your personal information when you use the Yahealth app. Our goal is to ensure transparency and maintain your trust.
 
